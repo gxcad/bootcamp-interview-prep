@@ -18,3 +18,5 @@ node 01_twoSum.js
 - Hope this will help you with your enrollment into a great coding bootcamp.
 
 - Your feedback and questions are welcomed.
+
+- All your base are belong to us.
